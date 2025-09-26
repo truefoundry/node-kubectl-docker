@@ -15,4 +15,3 @@ RUN chmod +x /usr/local/bin/entrypoint.sh
 
 # Default entrypoint
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
-CMD ["bash"]
